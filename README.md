@@ -5,8 +5,9 @@ This is the official code release for the paper titled -
 **_"Reshaping Inputs for Convolutional Neural Networks - Some common and uncommon methods"_**
 
 Please cite our work if you find this useful.
-Bibtex -
-```
+
+```python
+# BIBTEX ENTRY
 @article{ghosh2019reshaping,
   title={Reshaping Inputs for Convolutional Neural Networks-Some common and uncommon methods},
   author={Ghosh, Swarnendu and Das, Nibaran and Nasipuri, Mita},
