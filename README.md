@@ -6,7 +6,7 @@ This is the official code release for the paper titled -
 
 Please cite our work if you find this useful.
 
-```html
+```bibtex
 # BIBTEX ENTRY
 @article{ghosh2019reshaping,
   title={Reshaping Inputs for Convolutional Neural Networks-Some common and uncommon methods},
