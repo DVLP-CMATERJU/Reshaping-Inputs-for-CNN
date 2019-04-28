@@ -6,15 +6,17 @@ This is the official code release for the paper titled -
 
 Please cite our work if you find this useful.
 Bibtex -
+`
 @article{ghosh2019reshaping,
   title={Reshaping Inputs for Convolutional Neural Networks-Some common and uncommon methods},
   author={Ghosh, Swarnendu and Das, Nibaran and Nasipuri, Mita},
   journal={Pattern Recognition},
   year={2019},
   publisher={Elsevier}
-}
+}`
 
 Link to paper : https://www.sciencedirect.com/science/article/abs/pii/S0031320319301505
+
 Alternative Link : https://www.researchgate.net/publication/332320967_Reshaping_Inputs_for_Convolutional_Neural_Networks_-Some_common_and_uncommon_methods
 
 *Copyright 2019, Swarnendu Ghosh, Nibaran Das, Mita Nasipuri, All rights reserved.*
